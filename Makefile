@@ -36,6 +36,9 @@ graph:
 check:
 	./src/scripts/check.sh
 
+copy:
+	./src/scripts/copy.sh
+
 psql:
 	@set -a; source $(ENV_FILE); set +a; \
 	$(COMPOSE) exec db psql -U $$POSTGRES_USER -d $$POSTGRES_DB
