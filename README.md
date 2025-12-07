@@ -1,5 +1,7 @@
 # DRC Administrative Hierarchy
 
+![Graph of DR Congo admin hierarchy in Neo4j](./graph.png)
+
 Pipeline to build DR Congo’s administrative hierarchy (and roads) from an OSM
 `.osm.pbf`, store it in Postgres/PostGIS, and mirror it into Neo4j. The goal is
 to keep an updated database ready for applications and backend services that
