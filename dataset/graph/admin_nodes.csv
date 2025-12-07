@@ -1,0 +1,1113 @@
+id,name,hierarchy_level,type
+-100000000000192795,république démocratique du congo,2,country
+-100000000000193102,tanganyika,4,province
+-100000000005642697,maniema,4,province
+-100000000005642698,nord-kivu,4,province
+-100000000005642699,sud-kivu,4,province
+-100000000000193083,tshuapa,4,province
+-100000000000193099,sankuru,4,province
+-100000000005646599,kasaï-central,4,province
+-100000000003652373,kasaï,4,province
+-100000000000193086,haut-lomami,4,province
+-100000000005646600,lomami,4,province
+-100000000003654168,kasaï-oriental,4,province
+-100000000000193085,haut-katanga,4,province
+-100000000005646601,lualaba,4,province
+-100000000005646653,kwilu,4,province
+-100000000000193090,kongo-central,4,province
+-100000000000193091,kwango,4,province
+-100000000000192819,tshopo,4,province
+-100000000005646651,kinshasa,4,province
+-100000000005647368,mai-ndombe,4,province
+-100000000000193084,équateur,4,province
+-100000000000192820,bas-uele,4,province
+-100000000000192822,nord-ubangi,4,province
+-100000000000193101,sud-ubangi,4,province
+-100000000000192821,mongala,4,province
+-100000000000192818,ituri,4,province
+-100000000000192817,haut-uele,4,province
+-100000000014359090,kikwit,6,city
+-100000000012766434,idjwi,6,city
+-100000000012720424,aru,6,city
+-100000000011925117,kaniama,6,city
+-100000000011912737,sakania,6,city
+-100000000011719861,zongo,6,city
+-100000000011719860,libenge,6,city
+-100000000011719840,bosobolo,6,city
+-100000000011719784,lisala,6,city
+-100000000011701911,bunia,6,city
+-100000000011294846,mahagi,6,city
+-100000000011294845,djugu,6,city
+-100000000011250678,kolwezi,6,city
+-100000000011132472,mambasa,6,city
+-100000000011116707,lubudi,6,city
+-100000000011111575,mutshatsha,6,city
+-100000000011111431,kapanga,6,city
+-100000000011111430,sandoa,6,city
+-100000000011107202,lukula,6,city
+-100000000009984940,irumu,6,city
+-100000000009982840,aketi,6,city
+-100000000009231673,kipushi,6,city
+-100000000008974983,rutshuru,6,city
+-100000000008974600,nyiragongo,6,city
+-100000000008972965,butembo,6,city
+-100000000008972963,beni,6,city
+-100000000006820700,lupatapata,6,city
+-100000000006820699,kabeya-kamuanga,6,city
+-100000000006820698,tshilenge,6,city
+-100000000006820610,miabi,6,city
+-100000000006820509,katanda,6,city
+-100000000006178732,ville de mbujimayi,6,city
+-100000000005990382,kabongo,6,city
+-100000000005646651,kinshasa,6,city
+-100000000005387758,ville de lubumbashi,6,city
+-100000000005328045,bukama,6,city
+-100000000005327850,tshela,6,city
+-100000000005327849,songololo,6,city
+-100000000005327848,seke-banza,6,city
+-100000000005327847,moanda,6,city
+-100000000005327846,mbanza-ngungu,6,city
+-100000000005327845,matadi,6,city
+-100000000005327844,madimba,6,city
+-100000000005327843,luozi,6,city
+-100000000005327841,kimvula,6,city
+-100000000005327840,kasangulu,6,city
+-100000000005327839,boma,6,city
+-100000000005327799,walungu,6,city
+-100000000005327798,walikale,6,city
+-100000000005327797,uvira,6,city
+-100000000005327795,shabunda,6,city
+-100000000005327794,punia,6,city
+-100000000005327793,pangi,6,city
+-100000000005327792,mwenga,6,city
+-100000000005327791,masisi,6,city
+-100000000005327790,lubutu,6,city
+-100000000005327789,lubero,6,city
+-100000000005327788,kailo,6,city
+-100000000005327787,kibombo,6,city
+-100000000005327786,kasongo,6,city
+-100000000005327785,kalehe,6,city
+-100000000005327783,kabare,6,city
+-100000000005327780,kabambare,6,city
+-100000000005327779,goma,6,city
+-100000000005327778,fizi,6,city
+-100000000005327777,bukavu,6,city
+-100000000005327776,beni,6,city
+-100000000005327626,bandundu city,6,city
+-100000000005327613,plateaux,6,city
+-100000000000402103,territoire de bumba,6,city
+-100000000000193096,mai-ndombe,6,city
+-100000000000193095,lulua,6,city
+-100000000000193094,dilolo,6,city
+-100000000000193093,kabinda,6,city
+-100000000000193092,kwilu,6,city
+-100000000014358799,lukolela,7,municipality
+-100000000014358700,nzinda,7,municipality
+-100000000014359077,kazamba,7,municipality
+-100000000014358881,lukemi,7,municipality
+-100000000006035340,ntambuka (chefferie),7,municipality
+-100000000006035341,rubenga (chefferie),7,municipality
+-100000000014591036,mbunya,7,municipality
+-100000000009984183,yoko,7,municipality
+-100000000009984176,mabinza,7,municipality
+-100000000009984177,avuru-gatanga,7,municipality
+-100000000009984181,mobati-boyele,7,municipality
+-100000000009984182,avuru-duma,7,municipality
+-100000000009984180,mongwandi,7,municipality
+-100000000009984178,gbandi,7,municipality
+-100000000009984179,bondongola,7,municipality
+-100000000011909607,kinyama,7,municipality
+-100000000008975392,bwisha,7,municipality
+-100000000008975393,bwito,7,municipality
+-100000000008975595,bukumu,7,municipality
+-100000000011698638,kimeni,7,municipality
+-100000000011698635,bulengera,7,municipality
+-100000000011698636,mususa,7,municipality
+-100000000011698637,vulamba,7,municipality
+-100000000010006977,mulekera,7,municipality
+-100000000010006978,bungulu,7,municipality
+-100000000010006979,beu,7,municipality
+-100000000010006980,ruwenzori,7,municipality
+-100000000011634924,bakwa-kalonji,7,municipality
+-100000000006826856,beena tshitolo,7,municipality
+-100000000006826855,nsangu,7,municipality
+-100000000006101820,bipemba,7,municipality
+-100000000006178725,kanshi,7,municipality
+-100000000006178724,diulu,7,municipality
+-100000000006083081,muya,7,municipality
+-100000000006178723,dibindi,7,municipality
+-100000000000389761,mont ngafula,7,municipality
+-100000000000389760,ngaliema,7,municipality
+-100000000000388135,selembao,7,municipality
+-100000000000388134,bumbu,7,municipality
+-100000000010993823,ngiri-ngiri,7,municipality
+-100000000000388094,kasa-vubu,7,municipality
+-100000000000388091,bandalungwa,7,municipality
+-100000000000388098,gombe,7,municipality
+-100000000000388090,kintambo,7,municipality
+-100000000000388097,lingwala,7,municipality
+-100000000000388104,barumbu,7,municipality
+-100000000000388103,kinshasa,7,municipality
+-100000000000388599,limete,7,municipality
+-100000000000388127,kalamu,7,municipality
+-100000000000388139,ngaba,7,municipality
+-100000000000388133,makala,7,municipality
+-100000000010089740,lemba,7,municipality
+-100000000000389334,matete,7,municipality
+-100000000000389659,n'djili,7,municipality
+-100000000000389694,masina,7,municipality
+-100000000000389689,nsele,7,municipality
+-100000000000389614,kimbanseke,7,municipality
+-100000000000389536,kisenso,7,municipality
+-100000000000389746,maluku,7,municipality
+-100000000005399774,annexe,7,municipality
+-100000000005399777,lubumbashi,7,municipality
+-100000000005399775,kamalondo,7,municipality
+-100000000005388138,kampemba,7,municipality
+-100000000005387970,ruashi,7,municipality
+-100000000005387831,kenya,7,municipality
+-100000000005399776,katuba,7,municipality
+-100000000006035373,ngweshe (chefferie),7,municipality
+-100000000006035372,kaziba (chefferie),7,municipality
+-100000000008975594,bakano,7,municipality
+-100000000006035292,bafuliro (chefferie),7,municipality
+-100000000006035294,plaine de la ruzizi (chefferie),7,municipality
+-100000000006035293,bavira (chefferie),7,municipality
+-100000000005673383,wakabango (chefferie),7,municipality
+-100000000005673382,bakisi (chefferie),7,municipality
+-100000000005671334,itombwe (secteur),7,municipality
+-100000000005671335,luindi (chefferie),7,municipality
+-100000000005671332,basile (chefferie),7,municipality
+-100000000005671333,burhinyi (chefferie),7,municipality
+-100000000005671336,luwindja (chefferie),7,municipality
+-100000000005671337,wamuzima (chefferie),7,municipality
+-100000000008975596,bahunde,7,municipality
+-100000000008975599,katoyi,7,municipality
+-100000000008975598,osso,7,municipality
+-100000000008975597,bashali,7,municipality
+-100000000008975302,"",7,municipality
+-100000000008975305,"",7,municipality
+-100000000008975304,"",7,municipality
+-100000000008975303,"",7,municipality
+-100000000008974458,bapere,7,municipality
+-100000000008972964,baswaga,7,municipality
+-100000000006035363,buhavu (chefferie),7,municipality
+-100000000006035364,buloho (chefferie),7,municipality
+-100000000006035472,nindja (chefferie),7,municipality
+-100000000006035470,kabare (chefferie),7,municipality
+-100000000009592317,goma,7,municipality
+-100000000009592316,karisimbi,7,municipality
+-100000000005676380,ngandja,7,municipality
+-100000000005676379,mutambala,7,municipality
+-100000000005676381,tanganyika,7,municipality
+-100000000005676378,lulenge,7,municipality
+-100000000006035468,bagira,7,municipality
+-100000000006035471,kadutu,7,municipality
+-100000000006035469,ibanda,7,municipality
+-100000000012720378,kyondo,7,municipality
+-100000000008972961,bashu,7,municipality
+-100000000008974457,watalinga,7,municipality
+-100000000008972962,beni,7,municipality
+-100000000008974486,ruwenzori,7,municipality
+-100000000009992538,disasi,7,municipality
+-100000000009992537,mayoyo,7,municipality
+-100000000009992536,basoko,7,municipality
+-100000000000402189,secteur de la loeka,7,municipality
+-100000000000402183,secteur de yandongi,7,municipality
+-100000000000402188,secteur de la molua,7,municipality
+-100000000000402181,secteur de monzamboli,7,municipality
+-100000000000402182,secteur de banda-yowa,7,municipality
+-100000000014358799,lukolela,7,municipality
+-100000000014358700,nzinda,7,municipality
+-100000000014359077,kazamba,7,municipality
+-100000000014358881,lukemi,7,municipality
+-100000000014364561,ndeke-zulu,8,neighborhood
+-100000000014364357,lumbi,8,neighborhood
+-100000000014580249,hoho,8,neighborhood
+-100000000014563432,ngezi,8,neighborhood
+-100000000014573581,bakongolo,8,neighborhood
+-100000000014573580,bankoko,8,neighborhood
+-100000000014563430,opas,8,neighborhood
+-100000000014563091,lumumba,8,neighborhood
+-100000000014573579,yambi yaya,8,neighborhood
+-100000000014577462,dele,8,neighborhood
+-100000000012441041,aketi,8,neighborhood
+-100000000014300755,vighole,8,neighborhood
+-100000000014288194,ngingi,8,neighborhood
+-100000000014312791,katwa,8,neighborhood
+-100000000014331568,vungi,8,neighborhood
+-100000000010997458,tamende,8,neighborhood
+-100000000006092136,mbujimayi,8,neighborhood
+-100000000006081620,ngeleka kanguvu 1,8,neighborhood
+-100000000006081611,kamwanga bitanda,8,neighborhood
+-100000000006081623,nzaba,8,neighborhood
+-100000000006092135,mashala bambi,8,neighborhood
+-100000000006084049,kabongo wa misasa,8,neighborhood
+-100000000006084058,makala,8,neighborhood
+-100000000006084054,kanzewu,8,neighborhood
+-100000000006092133,tshibala kakumesa,8,neighborhood
+-100000000006084062,pmk0,8,neighborhood
+-100000000006081619,mulomba kamanda,8,neighborhood
+-100000000006081604,citandayi,8,neighborhood
+-100000000006084059,mpokolo,8,neighborhood
+-100000000006081622,ntambwa kasanzu,8,neighborhood
+-100000000006081607,diovo,8,neighborhood
+-100000000006081613,kanshi,8,neighborhood
+-100000000006081605,de la plaine,8,neighborhood
+-100000000006084065,tshielela,8,neighborhood
+-100000000006081614,lubi,8,neighborhood
+-100000000006084052,kandolo,8,neighborhood
+-100000000006084063,regideso,8,neighborhood
+-100000000006084057,lubuebue,8,neighborhood
+-100000000006092134,de la mission,8,neighborhood
+-100000000006081610,kalundu,8,neighborhood
+-100000000006081618,mulekayi,8,neighborhood
+-100000000006084055,katanga mbuji,8,neighborhood
+-100000000006084068,tshula mutombo,8,neighborhood
+-100000000006084051,kabuba mpetemba,8,neighborhood
+-100000000006081608,diwola,8,neighborhood
+-100000000006081624,rva,8,neighborhood
+-100000000006084061,odia david,8,neighborhood
+-100000000006084048,ditunga dietu,8,neighborhood
+-100000000006087070,mutonj mayand,8,neighborhood
+-100000000006084056,lubanda,8,neighborhood
+-100000000006084050,kabuatshia,8,neighborhood
+-100000000006084053,kankenlenga,8,neighborhood
+-100000000006101821,kanjiya,8,neighborhood
+-100000000006084066,tshintuta,8,neighborhood
+-100000000006084064,tatu kanyinda,8,neighborhood
+-100000000006084060,muya,8,neighborhood
+-100000000006084067,tshiombela,8,neighborhood
+-100000000006077558,ngeleka kanguvu 3,8,neighborhood
+-100000000006081606,de la poste,8,neighborhood
+-100000000006081612,kansele,8,neighborhood
+-100000000006078067,monseigneur nkongolo,8,neighborhood
+-100000000006078072,tender,8,neighborhood
+-100000000006078066,manzonzo,8,neighborhood
+-100000000006081603,bena cibuabua,8,neighborhood
+-100000000006081621,nkonga,8,neighborhood
+-100000000006081616,lusambo,8,neighborhood
+-100000000006081609,kalambayi nzebu,8,neighborhood
+-100000000006077556,kajiba,8,neighborhood
+-100000000006081625,tshibangu mpoyi,8,neighborhood
+-100000000006078068,muluma musulu,8,neighborhood
+-100000000006081615,muamba nzambi,8,neighborhood
+-100000000006076454,lunga,8,neighborhood
+-100000000006075876,lazare,8,neighborhood
+-100000000006075875,dieu soit béni,8,neighborhood
+-100000000006075874,kalal mutambo,8,neighborhood
+-100000000006076437,ngalula mpandanjila,8,neighborhood
+-100000000006075985,m. tshia,8,neighborhood
+-100000000006075987,tshikama,8,neighborhood
+-100000000006076436,kalonji ditunga,8,neighborhood
+-100000000006075877,mutonji mayande,8,neighborhood
+-100000000006078064,kabeya kasonga,8,neighborhood
+-100000000006078062,ciminyi,8,neighborhood
+-100000000006081617,mbaya musangana,8,neighborhood
+-100000000006078070,ngomba ngola,8,neighborhood
+-100000000006078069,ngalula tshibeta,8,neighborhood
+-100000000006078063,kabe,8,neighborhood
+-100000000006078071,oua,8,neighborhood
+-100000000006078065,bukasa kumbi kumbi,8,neighborhood
+-100000000006075986,nkongolo kabila,8,neighborhood
+-100000000006077557,ndembo a kanda,8,neighborhood
+-100000000010994977,mama yemo,8,neighborhood
+-100000000010994978,musey,8,neighborhood
+-100000000010994979,mfinda,8,neighborhood
+-100000000010994983,monganga,8,neighborhood
+-100000000009463063,lukunga,8,neighborhood
+-100000000009463064,ngomba kikusa,8,neighborhood
+-100000000009463059,kinkenda,8,neighborhood
+-100000000009463062,bumba,8,neighborhood
+-100000000010994980,djelo binza,8,neighborhood
+-100000000010994981,kimpe,8,neighborhood
+-100000000010994974,bangu,8,neighborhood
+-100000000010994975,binza pigeon,8,neighborhood
+-100000000010994973,lubudi,8,neighborhood
+-100000000010994982,manenga,8,neighborhood
+-100000000009463057,joli parc,8,neighborhood
+-100000000009463060,lonzo,8,neighborhood
+-100000000009463061,punda,8,neighborhood
+-100000000009463058,congo,8,neighborhood
+-100000000009463056,anciens combattants,8,neighborhood
+-100000000009384419,basoko,8,neighborhood
+-100000000010994976,kinsuka pecheur,8,neighborhood
+-100000000009420671,elengesa,8,neighborhood
+-100000000009420672,diomi,8,neighborhood
+-100000000009420673,assosa,8,neighborhood
+-100000000009420674,saïo,8,neighborhood
+-100000000009420670,24 novembre,8,neighborhood
+-100000000009420669,petit-petit,8,neighborhood
+-100000000009420668,diangenda,8,neighborhood
+-100000000009420667,khartoum,8,neighborhood
+-100000000009405607,anciens combattants,8,neighborhood
+-100000000009405605,onl,8,neighborhood
+-100000000009405609,assossa,8,neighborhood
+-100000000009405608,lubumbashi,8,neighborhood
+-100000000009405606,katanga,8,neighborhood
+-100000000009405604,salongo,8,neighborhood
+-100000000009405603,lodja,8,neighborhood
+-100000000009384589,kasa vubu,8,neighborhood
+-100000000009384575,lumumba,8,neighborhood
+-100000000009384577,adoula,8,neighborhood
+-100000000009384576,lingwala,8,neighborhood
+-100000000009384579,lubudi nganda,8,neighborhood
+-100000000009384580,bisengo,8,neighborhood
+-100000000009384588,makelele,8,neighborhood
+-100000000009384590,kokolo,8,neighborhood
+-100000000009384428,haut commandement,8,neighborhood
+-100000000009384424,croix-rouge,8,neighborhood
+-100000000009384423,golf,8,neighborhood
+-100000000009384425,lemera,8,neighborhood
+-100000000009384427,batetela,8,neighborhood
+-100000000009384426,cliniques,8,neighborhood
+-100000000009384421,gare,8,neighborhood
+-100000000009384420,commerce,8,neighborhood
+-100000000009384422,révolution,8,neighborhood
+-100000000009384578,lubudi luka,8,neighborhood
+-100000000009384581,lubudi nganda,8,neighborhood
+-100000000009384582,kilimani,8,neighborhood
+-100000000009384583,wenze,8,neighborhood
+-100000000009384584,tshinkela,8,neighborhood
+-100000000009384585,salongo,8,neighborhood
+-100000000009384587,lisala,8,neighborhood
+-100000000009384586,itimbiri,8,neighborhood
+-100000000009384228,ngunda lokombe,8,neighborhood
+-100000000009384229,la voix du peuple,8,neighborhood
+-100000000009384231,30 juin,8,neighborhood
+-100000000009384230,lokole,8,neighborhood
+-100000000009384232,cneci,8,neighborhood
+-100000000009384233,pakadjuma,8,neighborhood
+-100000000009384235,singa mopepe,8,neighborhood
+-100000000009384234,wenze,8,neighborhood
+-100000000009400357,libulu,8,neighborhood
+-100000000009400355,bitshaku tshaku,8,neighborhood
+-100000000009400354,tshimanga,8,neighborhood
+-100000000009400356,mozindo,8,neighborhood
+-100000000009400358,kasaï,8,neighborhood
+-100000000009400362,ndolo,8,neighborhood
+-100000000009400361,funa i,8,neighborhood
+-100000000009400360,funa ii,8,neighborhood
+-100000000009400359,kapinga,8,neighborhood
+-100000000009386883,ngbaka,8,neighborhood
+-100000000009386882,madimba,8,neighborhood
+-100000000009386881,aketi,8,neighborhood
+-100000000009386877,boyoma,8,neighborhood
+-100000000009386880,mongala,8,neighborhood
+-100000000009386879,djalo,8,neighborhood
+-100000000009386878,pende,8,neighborhood
+-100000000009417925,nzadi,8,neighborhood
+-100000000008941154,kingabwa,8,neighborhood
+-100000000009417924,ndanu,8,neighborhood
+-100000000009417926,mbamu,8,neighborhood
+-100000000009417927,industriel,8,neighborhood
+-100000000009417932,residentiel,8,neighborhood
+-100000000009417933,mateba,8,neighborhood
+-100000000009417935,mososo,8,neighborhood
+-100000000009417931,agricole,8,neighborhood
+-100000000009417929,mayulu,8,neighborhood
+-100000000009417934,mombele,8,neighborhood
+-100000000009417930,mfumu mvula,8,neighborhood
+-100000000009417928,masiala,8,neighborhood
+-100000000009417923,salongo,8,neighborhood
+-100000000009424449,kauka 2,8,neighborhood
+-100000000009424452,matonge 2,8,neighborhood
+-100000000009424450,matonge 3,8,neighborhood
+-100000000009424448,kimbangu 1,8,neighborhood
+-100000000009424446,yolo-nord 2,8,neighborhood
+-100000000009424447,yolo-nord 3,8,neighborhood
+-100000000009424454,matonge 1,8,neighborhood
+-100000000009424453,immo-congo,8,neighborhood
+-100000000009424451,kauka 1,8,neighborhood
+-100000000009424444,kauka 3,8,neighborhood
+-100000000009424445,yolo-nord 1,8,neighborhood
+-100000000009424438,yolo-sud 1,8,neighborhood
+-100000000009424439,yolo-sud 2,8,neighborhood
+-100000000009424442,yolo-sud 3,8,neighborhood
+-100000000009424443,kimbangu 2,8,neighborhood
+-100000000009424440,kimbangu 3,8,neighborhood
+-100000000009424441,yolo-sud 4,8,neighborhood
+-100000000009424437,camp pinzi,8,neighborhood
+-100000000010089738,ecole,8,neighborhood
+-100000000010089739,foire,8,neighborhood
+-100000000010273881,echangeur,8,neighborhood
+-100000000010443595,commercial,8,neighborhood
+-100000000010089737,mandradelle,8,neighborhood
+-100000000010273880,gombele,8,neighborhood
+-100000000010089736,kimpwanza,8,neighborhood
+-100000000010089735,masano,8,neighborhood
+-100000000010028560,kemi,8,neighborhood
+-100000000010453111,livulu,8,neighborhood
+-100000000010028433,salongo,8,neighborhood
+-100000000010453110,mbanza lemba,8,neighborhood
+-100000000010023116,lunionzo,8,neighborhood
+-100000000010023117,lubefu,8,neighborhood
+-100000000010023604,mbombipoko,8,neighborhood
+-100000000010022618,totaka,8,neighborhood
+-100000000010245981,maziba,8,neighborhood
+-100000000010224907,dondo,8,neighborhood
+-100000000010221317,loeka,8,neighborhood
+-100000000010245547,vivi,8,neighborhood
+-100000000010023546,sumbuka,8,neighborhood
+-100000000010023494,sankuru,8,neighborhood
+-100000000010023695,lukunga,8,neighborhood
+-100000000010023777,lumumba,8,neighborhood
+-100000000010023862,malemba,8,neighborhood
+-100000000010020961,quartier 2,8,neighborhood
+-100000000010014350,quartier 7,8,neighborhood
+-100000000010020932,quartier 1,8,neighborhood
+-100000000010021038,quartier 8,8,neighborhood
+-100000000010014524,quartier 3,8,neighborhood
+-100000000010014522,quartier 4,8,neighborhood
+-100000000010021011,quartier 11,8,neighborhood
+-100000000010021010,quartier 12,8,neighborhood
+-100000000010014589,quartier 10,8,neighborhood
+-100000000010014523,quartier 5,8,neighborhood
+-100000000010014351,quartier 6,8,neighborhood
+-100000000010014621,quartier 9,8,neighborhood
+-100000000010013409,quartier 13,8,neighborhood
+-100000000009389393,mandiangu,8,neighborhood
+-100000000009389406,sans fil,8,neighborhood
+-100000000009389395,lokari,8,neighborhood
+-100000000009389405,abatoire,8,neighborhood
+-100000000009389407,imbali,8,neighborhood
+-100000000009389402,télévision,8,neighborhood
+-100000000009389403,boba,8,neighborhood
+-100000000009389391,kivu,8,neighborhood
+-100000000009389400,efoloko,8,neighborhood
+-100000000009389399,tshuenge,8,neighborhood
+-100000000009389392,congo,8,neighborhood
+-100000000009389394,kasai,8,neighborhood
+-100000000009389389,pelende,8,neighborhood
+-100000000009389398,lubamba,8,neighborhood
+-100000000009389401,tshangu,8,neighborhood
+-100000000009389388,nzunzi wa mbombo,8,neighborhood
+-100000000009389404,kimbangu,8,neighborhood
+-100000000009107733,mfumu nsuka,8,neighborhood
+-100000000009389397,mapela,8,neighborhood
+-100000000009389396,mafuta kizola,8,neighborhood
+-100000000009389390,matadi,8,neighborhood
+-100000000010310552,maviokele,8,neighborhood
+-100000000010199988,bahumbu,8,neighborhood
+-100000000010261800,boma,8,neighborhood
+-100000000010212299,kutu,8,neighborhood
+-100000000008432852,ngomba,8,neighborhood
+-100000000008432851,regideso,8,neighborhood
+-100000000008432855,17 mai,8,neighborhood
+-100000000008432844,dingi-dingi,8,neighborhood
+-100000000008432845,kitomesa,8,neighborhood
+-100000000008432843,révolution,8,neighborhood
+-100000000008432846,bikanga,8,neighborhood
+-100000000008432847,nsola,8,neighborhood
+-100000000008432840,de la paix,8,neighborhood
+-100000000008432849,kabila,8,neighborhood
+-100000000008432848,kisenso-gare,8,neighborhood
+-100000000008432841,mission,8,neighborhood
+-100000000008432850,kumbu,8,neighborhood
+-100000000008432842,amba,8,neighborhood
+-100000000008432853,libération,8,neighborhood
+-100000000008432856,mujinga,8,neighborhood
+-100000000008432854,mbuku,8,neighborhood
+-100000000005392572,munua,8,neighborhood
+-100000000005392567,kasapa,8,neighborhood
+-100000000005392571,luwowoshi,8,neighborhood
+-100000000005392569,kimbembe,8,neighborhood
+-100000000005399825,naviundu,8,neighborhood
+-100000000005399818,kalebuka,8,neighborhood
+-100000000005392568,kasungami,8,neighborhood
+-100000000005392570,kisanga,8,neighborhood
+-100000000005400763,golf,8,neighborhood
+-100000000005850852,météo,8,neighborhood
+-100000000005761517,gambela 1,8,neighborhood
+-100000000005761518,gambela 2,8,neighborhood
+-100000000005388072,kalubwe,8,neighborhood
+-100000000005387898,lumumba,8,neighborhood
+-100000000005387897,kiwele,8,neighborhood
+-100000000005400764,makutano,8,neighborhood
+-100000000005388069,lido-golf,8,neighborhood
+-100000000005400765,mampala,8,neighborhood
+-100000000005820757,salama,8,neighborhood
+-100000000005400834,ndjandja,8,neighborhood
+-100000000005400832,kitumaïni,8,neighborhood
+-100000000005825683,hewa bora,8,neighborhood
+-100000000005388070,bel-air 1,8,neighborhood
+-100000000005825684,kabetsha,8,neighborhood
+-100000000005388071,industriel,8,neighborhood
+-100000000005400830,kigoma,8,neighborhood
+-100000000003586405,bogonga,8,neighborhood
+-100000000005399817,bel-air 2,8,neighborhood
+-100000000005399841,kampemba,8,neighborhood
+-100000000005399840,kafubu,8,neighborhood
+-100000000005388019,congo,8,neighborhood
+-100000000005387974,matoleo,8,neighborhood
+-100000000005387971,bendera,8,neighborhood
+-100000000005387975,shindaika,8,neighborhood
+-100000000005387972,kawama,8,neighborhood
+-100000000005399819,kalukuluku,8,neighborhood
+-100000000005387973,luano,8,neighborhood
+-100000000005387804,lualaba,8,neighborhood
+-100000000005387806,luvua,8,neighborhood
+-100000000005387805,luapula,8,neighborhood
+-100000000005400829,bukama,8,neighborhood
+-100000000005399824,bana katanga,8,neighborhood
+-100000000005399822,lufira,8,neighborhood
+-100000000005399823,musumba,8,neighborhood
+-100000000005400833,n'sele,8,neighborhood
+-100000000005411466,kaponda sud,8,neighborhood
+-100000000005411287,kaponda nord,8,neighborhood
+-100000000005399821,kisale,8,neighborhood
+-100000000005399826,upemba,8,neighborhood
+-100000000002650257,uvira,8,neighborhood
+-100000000009592420,les volcans,8,neighborhood
+-100000000009592421,mapendo,8,neighborhood
+-100000000009592422,mikeno,8,neighborhood
+-100000000012762190,kyeshero,8,neighborhood
+-100000000009592419,katindo,8,neighborhood
+-100000000009592423,himbi,8,neighborhood
+-100000000012762191,lac vert,8,neighborhood
+-100000000012761357,mabanga sud,8,neighborhood
+-100000000012761500,kasika,8,neighborhood
+-100000000012761356,mabanga nord,8,neighborhood
+-100000000012761062,virunga,8,neighborhood
+-100000000012761188,bujovu,8,neighborhood
+-100000000012761189,kahembe,8,neighborhood
+-100000000012761061,murara,8,neighborhood
+-100000000012761267,majengo,8,neighborhood
+-100000000012761900,ndosho,8,neighborhood
+-100000000012761901,katoyi,8,neighborhood
+-100000000012761899,mugunga,8,neighborhood
+-100000000009998675,molende,8,neighborhood
+-100000000009998674,kwango,8,neighborhood
+-100000000009998809,nsele,8,neighborhood
+-100000000009998807,mampuya,8,neighborhood
+-100000000009998806,mobutu,8,neighborhood
+-100000000009998808,kamyanola,8,neighborhood
+-100000000009998676,salamita,8,neighborhood
+-100000000009999563,bosembo,8,neighborhood
+-100000000009999562,kimvuka,8,neighborhood
+-100000000009999560,ngamilele,8,neighborhood
+-100000000009999559,malebo,8,neighborhood
+-100000000009999170,air congo,8,neighborhood
+-100000000009999567,ifuri,8,neighborhood
+-100000000009999566,lisala,8,neighborhood
+-100000000009999169,salongo,8,neighborhood
+-100000000014364561,ndeke-zulu,8,neighborhood
+-100000000014364357,lumbi,8,neighborhood
+-100000000014364023,mwandeke,9,locality
+-100000000014364023,mwandeke,9,locality
+-100000000016345604,kilemi,9,locality
+-100000000016345602,la victoire,9,locality
+-100000000016345603,goshen,9,locality
+-100000000016719414,toyabo i,9,locality
+-100000000016719413,toyabo ii,9,locality
+-100000000016719412,cbca,9,locality
+-100000000016346055,komboke,9,locality
+-100000000016346051,colombe,9,locality
+-100000000016346052,mandungu,9,locality
+-100000000016346053,mont carmel,9,locality
+-100000000016346162,fabia,9,locality
+-100000000016346163,vaweka,9,locality
+-100000000016345606,tokabo,9,locality
+-100000000016345607,kisangani,9,locality
+-100000000016345605,bakuwasa,9,locality
+-100000000016346165,singoma,9,locality
+-100000000016346164,muhimbo,9,locality
+-100000000016346166,lonjamuzi,9,locality
+-100000000016346054,istm nyakunde,9,locality
+-100000000016345703,musa,9,locality
+-100000000016345705,bungishabaku,9,locality
+-100000000016345706,kakani,9,locality
+-100000000016345704,ngumyabo,9,locality
+-100000000016250475,andisoma,9,locality
+-100000000016251484,gety 1,9,locality
+-100000000016251482,mbandaka 2,9,locality
+-100000000016251483,gety 2,9,locality
+-100000000016251487,zelangai na pokwa 1,9,locality
+-100000000016251486,dalanga,9,locality
+-100000000016251226,lugbara,9,locality
+-100000000016251224,zelangai na pokwa 2,9,locality
+-100000000016250348,air zaïre,9,locality
+-100000000016251481,mbandaka 1,9,locality
+-100000000016251479,maniema,9,locality
+-100000000016250353,mbunya 1,9,locality
+-100000000016250349,kakwa 2,9,locality
+-100000000016250350,balele 1,9,locality
+-100000000016250354,mbunya 2,9,locality
+-100000000016250351,balele 2,9,locality
+-100000000016250347,mont fleuri,9,locality
+-100000000016250404,kondifa,9,locality
+-100000000016250402,kakwa 1,9,locality
+-100000000016250403,de la prison,9,locality
+-100000000016250346,manzikala,9,locality
+-100000000016251225,logo 1,9,locality
+-100000000016251480,chem-chem,9,locality
+-100000000016250345,ndoromo,9,locality
+-100000000014304449,vighole,9,locality
+-100000000014307097,mupo,9,locality
+-100000000014307096,lirombi,9,locality
+-100000000014304448,kavali,9,locality
+-100000000014304446,kaghembe,9,locality
+-100000000014304447,malihi,9,locality
+-100000000014304450,kighutu,9,locality
+-100000000014300521,ngolwe a,9,locality
+-100000000014300522,ngolwe b,9,locality
+-100000000014285984,burundo,9,locality
+-100000000014285986,mikama,9,locality
+-100000000014285985,musingiri,9,locality
+-100000000014285988,livate a,9,locality
+-100000000014285987,livate b,9,locality
+-100000000014285989,ngingi,9,locality
+-100000000014285990,kibunano,9,locality
+-100000000014285991,vuhendera,9,locality
+-100000000014288151,bungulu,9,locality
+-100000000014285983,mbovote,9,locality
+-100000000014320843,lunga,9,locality
+-100000000014320841,kirindera,9,locality
+-100000000014320844,vuhika,9,locality
+-100000000014320837,katwa mission,9,locality
+-100000000014320845,binone,9,locality
+-100000000014320838,mitete,9,locality
+-100000000014320839,vuhunga,9,locality
+-100000000014320840,kavisa,9,locality
+-100000000014320846,mabwe,9,locality
+-100000000014320842,kavughavugha,9,locality
+-100000000014331279,biondi,9,locality
+-100000000014331280,kimbesa,9,locality
+-100000000014331281,mulekya,9,locality
+-100000000014331278,vungi a,9,locality
+-100000000014331282,kalongolero,9,locality
+-100000000014331276,cofaco,9,locality
+-100000000014331277,vungi b,9,locality
+-100000000012687032,kaza roho,9,locality
+-100000000012687164,kolokwa,9,locality
+-100000000012687267,bas congo,9,locality
+-100000000012687313,yambayamba,9,locality
+-100000000012687339,kilembo,9,locality
+-100000000009463067,kasi,9,locality
+-100000000009463066,regideso,9,locality
+-100000000009463065,malueka,9,locality
+-100000000008941152,cité du fleuve,9,locality
+-100000000008941155,kingabwa pêcheur,9,locality
+-100000000009102288,yaounde,9,locality
+-100000000009102263,madrandele,9,locality
+-100000000008941153,maman nzenze,9,locality
+-100000000010224908,localité lokele ii,9,locality
+-100000000010224909,localité bahumbu ii,9,locality
+-100000000010221321,localité kinsimbo,9,locality
+-100000000005845932,mulao,9,locality
+-100000000005845938,somika,9,locality
+-100000000005845935,plateau i,9,locality
+-100000000005845926,kabulameshi i,9,locality
+-100000000005845927,kabulameshi ii,9,locality
+-100000000005845936,plateau ii,9,locality
+-100000000005845928,karavia,9,locality
+-100000000005845931,maisha,9,locality
+-100000000005845934,mwita,9,locality
+-100000000005845933,mupundu,9,locality
+-100000000005845930,kyaluaya,9,locality
+-100000000005845937,poleni,9,locality
+-100000000005845939,tchamalale,9,locality
+-100000000005845929,kasombo,9,locality
+-100000000005838604,kamayibwe,9,locality
+-100000000005850775,kamisepe ii,9,locality
+-100000000005838605,kamisepe i,9,locality
+-100000000005838607,neema i,9,locality
+-100000000005838606,kampemba,9,locality
+-100000000005838602,kamatete i,9,locality
+-100000000005838603,kamatete ii,9,locality
+-100000000005838608,neema ii,9,locality
+-100000000005838601,craa,9,locality
+-100000000005837261,kabobo,9,locality
+-100000000005837263,kaswayi,9,locality
+-100000000005837269,salama,9,locality
+-100000000005837268,mukulu,9,locality
+-100000000005837260,banza matolo,9,locality
+-100000000005837270,shamba,9,locality
+-100000000005837262,kabulu,9,locality
+-100000000005837264,kipanta,9,locality
+-100000000005837265,kitungulu,9,locality
+-100000000005837267,mitente,9,locality
+-100000000005837266,mamba,9,locality
+-100000000005837271,washeni,9,locality
+-100000000005837865,kawama,9,locality
+-100000000005837870,mulutula,9,locality
+-100000000005837872,petro,9,locality
+-100000000005837864,kasangiri,9,locality
+-100000000005837868,luano,9,locality
+-100000000005837867,kiswishi 2,9,locality
+-100000000005837871,mutwale,9,locality
+-100000000005837866,kiswishi 1,9,locality
+-100000000005837863,kapulula,9,locality
+-100000000005837869,luluta,9,locality
+-100000000005837862,futuka,9,locality
+-100000000005752211,maendeleo i,9,locality
+-100000000005752212,maendeleo ii,9,locality
+-100000000005843496,salongo,9,locality
+-100000000005752217,mapinduzi,9,locality
+-100000000005752203,kampemba,9,locality
+-100000000005752198,hewa bora,9,locality
+-100000000005752215,munongo,9,locality
+-100000000005752207,lwamisamba,9,locality
+-100000000005752210,m'zee l. d. kabila,9,locality
+-100000000005752204,kapolowe,9,locality
+-100000000005753624,kamasaka,9,locality
+-100000000005752202,lufira,9,locality
+-100000000005843495,kafubu ii,9,locality
+-100000000005752213,makutano,9,locality
+-100000000005752200,kafubu i,9,locality
+-100000000005752216,météo,9,locality
+-100000000005752205,kikunguru,9,locality
+-100000000005753625,mamba,9,locality
+-100000000005753626,mukulu et salama,9,locality
+-100000000005752214,mulolo,9,locality
+-100000000005752208,lwapula,9,locality
+-100000000005752201,kalulako,9,locality
+-100000000005807414,njanja,9,locality
+-100000000005807412,kalubamba,9,locality
+-100000000005836572,promagri,9,locality
+-100000000005836569,tshilenge,9,locality
+-100000000005836573,mwenda,9,locality
+-100000000005807408,cadastre,9,locality
+-100000000005836563,3z,9,locality
+-100000000005836565,gare munama,9,locality
+-100000000005836568,kiponda,9,locality
+-100000000005836567,katwatwa,9,locality
+-100000000005836571,malumbwe,9,locality
+-100000000005807409,de la mission,9,locality
+-100000000005836564,bulanda,9,locality
+-100000000005836566,kasamba,9,locality
+-100000000005807411,kafubu,9,locality
+-100000000005807413,route munama,9,locality
+-100000000005807410,hewa-bora,9,locality
+-100000000005807324,kawama,9,locality
+-100000000005807323,kasamba,9,locality
+-100000000005807325,mitelo,9,locality
+-100000000005807326,mukuwenu,9,locality
+-100000000005807320,fipango,9,locality
+-100000000005807319,de la mission,9,locality
+-100000000005807322,kalule,9,locality
+-100000000005807321,kafubu,9,locality
+-100000000005508333,nyembo richard,9,locality
+-100000000005838211,ntanda,9,locality
+-100000000005838210,ngoie mutwale,9,locality
+-100000000005508367,triangle,9,locality
+-100000000005508358,mulolo,9,locality
+-100000000005759447,lwapula,9,locality
+-100000000005838212,wantashi,9,locality
+-100000000005759448,makutano,9,locality
+-100000000005838209,kimilolo,9,locality
+-100000000005759446,kashamata,9,locality
+-100000000005838207,kansaba,9,locality
+-100000000005838208,kilima simba,9,locality
+-100000000005759445,mapongo,9,locality
+-100000000005837340,itambo ii,9,locality
+-100000000005837339,itambo i,9,locality
+-100000000005837336,du golf,9,locality
+-100000000005837335,clinique vétérinaire,9,locality
+-100000000005837337,du marché,9,locality
+-100000000005837341,les battants,9,locality
+-100000000005837338,iringi,9,locality
+-100000000005843077,masamba,9,locality
+-100000000005843078,météo,9,locality
+-100000000005836761,age d'or,9,locality
+-100000000005726544,tshombe,9,locality
+-100000000005726543,polytechnique,9,locality
+-100000000005508446,des aviateurs,9,locality
+-100000000005836762,passerelle,9,locality
+-100000000005508447,mohamed,9,locality
+-100000000005761520,du campus,9,locality
+-100000000005761519,baraka,9,locality
+-100000000005761523,kasangulu,9,locality
+-100000000005761524,mpolo,9,locality
+-100000000005761522,haute tension ii,9,locality
+-100000000005761521,haute tension i,9,locality
+-100000000005727241,lubumbashi,9,locality
+-100000000005727238,biayi,9,locality
+-100000000005727240,du 30 juin,9,locality
+-100000000005727239,des ecoles,9,locality
+-100000000005837888,du 30 juin prolongée,9,locality
+-100000000005762178,biayi,9,locality
+-100000000005762180,kimbwambe,9,locality
+-100000000005762177,30 juin,9,locality
+-100000000005762179,kamanyola,9,locality
+-100000000005508388,kiwele,9,locality
+-100000000005508389,ujamara,9,locality
+-100000000005508378,mukuba,9,locality
+-100000000005833405,sakania,9,locality
+-100000000005833406,tanganika,9,locality
+-100000000005833402,kundelungu,9,locality
+-100000000005833403,laboratoire (camp assistant),9,locality
+-100000000005833404,luvua,9,locality
+-100000000005762155,pépinière,9,locality
+-100000000005762156,tshombe,9,locality
+-100000000005762152,des rochers,9,locality
+-100000000005762153,kilwa,9,locality
+-100000000005762154,lido i,9,locality
+-100000000005804107,lumumba,9,locality
+-100000000005837042,gbadolite ii,9,locality
+-100000000005804111,penga penga ii,9,locality
+-100000000005804100,basembe,9,locality
+-100000000005804101,gbadolite i,9,locality
+-100000000005804105,lido ii,9,locality
+-100000000005804102,kamanyola,9,locality
+-100000000005804109,mumbunda,9,locality
+-100000000005804106,lufira,9,locality
+-100000000005804110,penga penga i,9,locality
+-100000000005804099,barrage d'inga,9,locality
+-100000000005804108,mukuba,9,locality
+-100000000005804103,kinkole,9,locality
+-100000000005804104,kinshasa,9,locality
+-100000000005837043,poteau,9,locality
+-100000000005825675,mampala 1,9,locality
+-100000000005825674,makomeno,9,locality
+-100000000005837114,don bosco,9,locality
+-100000000005837115,quebec,9,locality
+-100000000005825676,mampala 2,9,locality
+-100000000005503023,mulumbi,9,locality
+-100000000005503024,serkali,9,locality
+-100000000005503021,bikopo,9,locality
+-100000000005503022,elima,9,locality
+-100000000005502513,chem chem,9,locality
+-100000000005502512,cellule des sports,9,locality
+-100000000005502514,kamalondo,9,locality
+-100000000005502515,masikilizano,9,locality
+-100000000005805833,tunnel,9,locality
+-100000000005805820,kabwese seya,9,locality
+-100000000005805827,lumumba,9,locality
+-100000000005805818,carrière,9,locality
+-100000000005805816,des plaines i,9,locality
+-100000000005805817,des plaines ii,9,locality
+-100000000005411694,parc i,9,locality
+-100000000005411696,scierie,9,locality
+-100000000005411693,bakoa,9,locality
+-100000000005411695,parc ii,9,locality
+-100000000005805814,bonde ii,9,locality
+-100000000005805830,rail ii,9,locality
+-100000000005805834,usoke,9,locality
+-100000000005805813,araucarias,9,locality
+-100000000005805815,bonde iii,9,locality
+-100000000005805832,tshamilemba,9,locality
+-100000000005726594,m'siri,9,locality
+-100000000005726592,brasimba,9,locality
+-100000000005726593,kimbangu,9,locality
+-100000000005837948,sanguza,9,locality
+-100000000005838030,rail ii,9,locality
+-100000000005805826,luano iv,9,locality
+-100000000005805821,kilima i,9,locality
+-100000000005805822,kilima ii,9,locality
+-100000000005838029,bonde i,9,locality
+-100000000005838079,rail i,9,locality
+-100000000005805828,lumumba,9,locality
+-100000000005805823,luano i,9,locality
+-100000000005805825,luano iii,9,locality
+-100000000005805824,luano ii,9,locality
+-100000000005843036,malutshi,9,locality
+-100000000005843035,kisense,9,locality
+-100000000005843039,sozanela,9,locality
+-100000000005843038,stvd,9,locality
+-100000000005843037,mpande,9,locality
+-100000000005843034,kikanda,9,locality
+-100000000005508373,maramba,9,locality
+-100000000005508345,abattoire,9,locality
+-100000000005806945,dilungu,9,locality
+-100000000005806946,kilobelobe i,9,locality
+-100000000005806948,beau séjour,9,locality
+-100000000005806947,kilobelobe ii,9,locality
+-100000000005804791,taba-congo,9,locality
+-100000000005804787,kapya,9,locality
+-100000000005804788,muteba,9,locality
+-100000000005804790,solola,9,locality
+-100000000005804785,chine,9,locality
+-100000000005804786,kanamakote,9,locality
+-100000000005804789,nyembo,9,locality
+-100000000005502454,munama,9,locality
+-100000000005502449,kinka-ville,9,locality
+-100000000005502448,kasongo wa nyembo,9,locality
+-100000000005502450,kisaka mulumba,9,locality
+-100000000005502453,megastore,9,locality
+-100000000005502446,kamibanga,9,locality
+-100000000005502452,mawawa,9,locality
+-100000000005502447,kamilulu,9,locality
+-100000000005502451,makwaruzo,9,locality
+-100000000005807505,itengo i,9,locality
+-100000000005807510,mwatshisenge,9,locality
+-100000000005807506,itengo ii,9,locality
+-100000000005807508,malembankulu,9,locality
+-100000000005807507,kapenda,9,locality
+-100000000005807504,changwe,9,locality
+-100000000005807511,upemba,9,locality
+-100000000005807509,musumba,9,locality
+-100000000005810641,mukwemba,9,locality
+-100000000005810638,kapenda,9,locality
+-100000000005810643,tshangwe,9,locality
+-100000000005810640,katanga,9,locality
+-100000000005810642,mumba kilubi,9,locality
+-100000000005810639,kasanda,9,locality
+-100000000005810637,kapanga,9,locality
+-100000000005725074,hodari,9,locality
+-100000000005725073,des artistes,9,locality
+-100000000005806992,kumwimba,9,locality
+-100000000005806995,tanganika,9,locality
+-100000000005806993,lualaba,9,locality
+-100000000005836590,mayombo,9,locality
+-100000000005843106,safricas,9,locality
+-100000000005843105,maramba sud,9,locality
+-100000000005843108,shindaika sud,9,locality
+-100000000005843104,maramba nord,9,locality
+-100000000005843107,shindaika nord,9,locality
+-100000000005834201,hewa bora ii,9,locality
+-100000000005834200,hewa bora i,9,locality
+-100000000005834203,kaponda,9,locality
+-100000000005834204,kazadi,9,locality
+-100000000005834206,mbiya,9,locality
+-100000000005834207,nkulu i,9,locality
+-100000000005834208,nkulu ii,9,locality
+-100000000005834211,stella sud,9,locality
+-100000000005834212,tshangwe,9,locality
+-100000000005834205,lukala,9,locality
+-100000000005834209,sanguza,9,locality
+-100000000005834202,kambove,9,locality
+-100000000005834210,stella nord,9,locality
+-100000000005501805,masangoshi ii,9,locality
+-100000000005501801,kasenga,9,locality
+-100000000005501802,masangoshi i,9,locality
+-100000000005501803,mine,9,locality
+-100000000005501800,kaponda,9,locality
+-100000000005501804,njanja,9,locality
+-100000000005834387,luano shiku,9,locality
+-100000000005834384,kaniangala,9,locality
+-100000000005834385,kasenga,9,locality
+-100000000005834383,irene cardozo,9,locality
+-100000000005805819,de la regideso,9,locality
+-100000000005834382,changwe,9,locality
+-100000000005834386,kawama,9,locality
+-100000000005502945,bana katanga,9,locality
+-100000000005502950,upemba,9,locality
+-100000000005502947,kundelunga,9,locality
+-100000000005502946,ilunga kakusu,9,locality
+-100000000005502949,tanganika,9,locality
+-100000000005502948,makutano,9,locality
+-100000000005502971,mampala,9,locality
+-100000000005502974,tingi tingi,9,locality
+-100000000005502970,mabila,9,locality
+-100000000005502969,kyubo,9,locality
+-100000000005502973,musofi,9,locality
+-100000000005502972,moba,9,locality
+-100000000005502990,kafubu,9,locality
+-100000000005502994,munama,9,locality
+-100000000005502989,kabongo,9,locality
+-100000000005502995,tshikwey,9,locality
+-100000000005502992,lubudi,9,locality
+-100000000005502993,lubumbashi,9,locality
+-100000000005503540,boulevard,9,locality
+-100000000005503544,kabulo,9,locality
+-100000000005503547,karavia,9,locality
+-100000000005503548,luano,9,locality
+-100000000005503546,kanyama,9,locality
+-100000000005503545,kakanda,9,locality
+-100000000005503541,du golf,9,locality
+-100000000005503543,gemena,9,locality
+-100000000005503542,du marché,9,locality
+-100000000005478265,tanganyika,9,locality
+-100000000005478234,shindaika,9,locality
+-100000000005478143,sanboa,9,locality
+-100000000005478137,inakiluba,9,locality
+-100000000005478149,kafurn,9,locality
+-100000000005478108,lualaba,9,locality
+-100000000005478121,tenke,9,locality
+-100000000005478130,manda,9,locality
+-100000000005748672,lubinga,9,locality
+-100000000005748670,kanyama,9,locality
+-100000000005748673,tshimanga,9,locality
+-100000000005748669,kafubu,9,locality
+-100000000005748671,kayumba,9,locality
+-100000000005748668,divuma,9,locality
+-100000000005748674,tanganyika,9,locality
+-100000000005748667,central,9,locality
+-100000000005457508,chem-chem,9,locality
+-100000000005457503,kabongo,9,locality
+-100000000005457501,kamina,9,locality
+-100000000005457507,mulongo,9,locality
+-100000000005457505,kiniama,9,locality
+-100000000005457504,lomami,9,locality
+-100000000005457509,tango apo,9,locality
+-100000000005457502,maendeleo,9,locality
+-100000000005457506,lukuga,9,locality
+-100000000005834061,katuba,9,locality
+-100000000005834059,kafubu,9,locality
+-100000000005834067,mapendano,9,locality
+-100000000005834062,kilobelobe,9,locality
+-100000000005834058,chem-chem,9,locality
+-100000000005834068,masikilizano,9,locality
+-100000000005834071,mulopwe,9,locality
+-100000000005834069,maungano,9,locality
+-100000000005834070,mukuheno,9,locality
+-100000000005834066,makutano,9,locality
+-100000000005834065,makumbi,9,locality
+-100000000005834063,kimilolo,9,locality
+-100000000005834064,kyubo,9,locality
+-100000000005834072,salongo,9,locality
+-100000000005834060,kamina,9,locality
+-100000000005411494,nkalano,9,locality
+-100000000005411482,kabalo,9,locality
+-100000000005411485,kamakanga,9,locality
+-100000000005411492,murung,9,locality
+-100000000005411488,kitebele,9,locality
+-100000000005411491,meyumbe,9,locality
+-100000000005411481,dibwe,9,locality
+-100000000005411480,boya,9,locality
+-100000000005411483,kajidi,9,locality
+-100000000005411493,mushami,9,locality
+-100000000005411486,kambamb,9,locality
+-100000000005411489,lengwe,9,locality
+-100000000005411484,kalundwe,9,locality
+-100000000005411487,keledende,9,locality
+-100000000005411495,yambula,9,locality
+-100000000005411490,lubiayi,9,locality
+-100000000005411293,mwanga,9,locality
+-100000000005411290,mapendo,9,locality
+-100000000005411289,lukuga,9,locality
+-100000000005411292,mutshatsha,9,locality
+-100000000005411295,upemba,9,locality
+-100000000005411291,masikilizano,9,locality
+-100000000005411294,singa,9,locality
+-100000000005499328,marungu,9,locality
+-100000000005499327,central,9,locality
+-100000000005457539,kisale,9,locality
+-100000000005457540,katuba,9,locality
+-100000000005457541,bangwelo,9,locality
+-100000000005412010,umoja,9,locality
+-100000000005412000,maongezo,9,locality
+-100000000005412003,masaidiano,9,locality
+-100000000005412002,mapendano,9,locality
+-100000000005411998,maadibisho,9,locality
+-100000000005412008,twendelee,9,locality
+-100000000005412005,rivière,9,locality
+-100000000005412007,tujikaze,9,locality
+-100000000005411996,kalume kabange,9,locality
+-100000000005411997,kankamana,9,locality
+-100000000005412001,mapatano,9,locality
+-100000000005412006,singa,9,locality
+-100000000005412004,mukwena,9,locality
+-100000000005411999,maendeleo,9,locality
+-100000000005412009,uhuru,9,locality
+-100000000014364023,mwandeke,9,locality
+-100000000014364023,mwandeke,9,locality
+-100000000005762146,bloc i,10,bloc
+-100000000005762148,bloc ii,10,bloc
+-100000000005762145,bloc i,10,bloc
+-100000000005762149,bloc ii,10,bloc
+-100000000005762144,bloc i,10,bloc
+-100000000005762147,bloc ii,10,bloc
+-100000000005762151,bloc ii,10,bloc
+-100000000005762143,bloc i,10,bloc
+-100000000005762142,bloc i,10,bloc
+-100000000005762150,bloc ii,10,bloc
+-100000000005804093,bloc i,10,bloc
+-100000000005804095,bloc iii,10,bloc
+-100000000005804096,bloc iv,10,bloc
+-100000000005804097,bloc v,10,bloc
+-100000000005804098,bloc vi,10,bloc
+-100000000005804094,bloc ii,10,bloc
+-100000000005843184,maramba 2,10,bloc
+-100000000005843183,maramba 1,10,bloc
